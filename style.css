@@ -1,0 +1,82 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #BED7C1;
+    font-weight: bold;
+    font-size: large;
+}
+form{
+    background-color: #85C588;
+    text-align: left;
+    width: 500px;
+    height: 630px;
+    margin: auto;
+    border-color: #85C588;
+    border-radius: 3px;
+    
+    
+}
+form h1{
+    background-color: #85C588;
+    padding-top: 20px;
+    text-indent: 24px;
+    font-size: 30px;
+    
+
+}
+form p{
+    background-color: #85C588;
+    text-indent: 24px;
+    font-size: 20px;
+}
+form >label{
+    background-color: #85C588;
+    text-indent: 30px;
+    margin-left: 22px;
+    
+
+}
+form > input{
+    background-color: #FFFFFF;
+    text-indent: 0.1em;
+    margin-left: 20px;
+    width: 450px;
+    height: 20px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    border:3px solid #85C588;
+}
+form select{
+    background-color: #FFFFFF;
+    text-indent: 0.1em;
+    margin-left: 20px;
+    width: 460px;
+    height: 30px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    border:3px solid #85C588;
+
+
+}
+form select option{
+    background-color: #FFFFFF;
+
+}
+form textarea{
+    text-indent: 0.1em;
+    background-color: #FFFFFF;
+    margin-left: 20px;
+    border-radius: 7px;
+    border:3px solid #85C588;
+
+}
+form button{
+    width: 450px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 450px;
+    height: 30px;
+    background-color: #6CA16D;
+    border-color:8px solid  #6CA16D;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
